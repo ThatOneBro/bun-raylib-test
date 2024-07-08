@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.svelte": "svelte",
+    "*.prisma": "prisma",
+    "raylib.h": "c",
+    "assert.h": "c",
+    "stdlib.h": "c"
+  }
+}
